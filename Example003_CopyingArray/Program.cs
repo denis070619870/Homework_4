@@ -16,6 +16,6 @@ public class Example
         int[] copy = new int[length];
         Array.Copy(arr, j, copy, 0, length);
         Console.WriteLine("Копия массива: ");
-        Console.WriteLine(copy);
+        Console.WriteLine(String.Join(", ", copy));
     }
 }
