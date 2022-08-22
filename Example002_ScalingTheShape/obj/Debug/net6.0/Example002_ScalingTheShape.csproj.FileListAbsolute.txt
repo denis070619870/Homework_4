@@ -1,0 +1,5 @@
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\obj\Debug\net6.0\Example002_ScalingTheShape.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\obj\Debug\net6.0\Example002_ScalingTheShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\obj\Debug\net6.0\Example002_ScalingTheShape.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\obj\Debug\net6.0\Example002_ScalingTheShape.AssemblyInfo.cs
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\obj\Debug\net6.0\Example002_ScalingTheShape.csproj.CoreCompileInputs.cache
