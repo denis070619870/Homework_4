@@ -3,3 +3,13 @@ C:\Users\Денис\Desktop\GeekBrains\3. Введение в программи
 C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\obj\Debug\net6.0\Example002_ScalingTheShape.AssemblyInfoInputs.cache
 C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\obj\Debug\net6.0\Example002_ScalingTheShape.AssemblyInfo.cs
 C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\obj\Debug\net6.0\Example002_ScalingTheShape.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\bin\Debug\net6.0\Example002_ScalingTheShape.exe
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\bin\Debug\net6.0\Example002_ScalingTheShape.deps.json
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\bin\Debug\net6.0\Example002_ScalingTheShape.runtimeconfig.json
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\bin\Debug\net6.0\Example002_ScalingTheShape.dll
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\bin\Debug\net6.0\Example002_ScalingTheShape.pdb
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\obj\Debug\net6.0\Example002_ScalingTheShape.dll
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\obj\Debug\net6.0\refint\Example002_ScalingTheShape.dll
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\obj\Debug\net6.0\Example002_ScalingTheShape.pdb
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\obj\Debug\net6.0\Example002_ScalingTheShape.genruntimeconfig.cache
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_4\Homework_4\Example002_ScalingTheShape\obj\Debug\net6.0\ref\Example002_ScalingTheShape.dll
